@@ -16,7 +16,7 @@ This project is a single-page application for skin beauty products created with 
 
 ## Features
 
-- Display of best-selling skin beauty products.
+- Display of minimal landing page for skin beauty products.
 - Dynamic rendering of product information.
 - Clean and modern design using React.
 
@@ -104,6 +104,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Author
 
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-  Github - [imlilac](https://github.com/imlilac)
