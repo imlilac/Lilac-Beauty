@@ -1,0 +1,29 @@
+#bestSeller-container {
+   display: flex;
+   flex-direction: column;
+   border-top: 2px solid black;
+}
+
+.bestSeller-title {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin: 0 5%;
+   padding: 50px 0;
+}
+
+.bestSeller-title h3 {
+   font-size: 2.3rem;
+   font-weight: 600;
+}
+
+.bestSeller-title a {
+   text-decoration: none;
+   color: black;
+   border-bottom: 1px solid black;
+   padding-bottom: 2px;
+}
+
+.product-container {
+   display: flex;
+}

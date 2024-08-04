@@ -1,0 +1,83 @@
+#header {
+   border-top: 2px solid black;
+   display: flex;
+}
+
+.header-img {
+   width: 50%;
+   height: 624px;
+   border-right: 2px solid black;
+}
+
+.header-img img {
+   object-fit: cover;
+   width: 100%;
+   height: 100%;
+}
+
+.header-right {
+   width: 50%;
+   margin-right: 5%;
+}
+
+.header-images {
+   display: flex;
+   gap: 5px;
+   margin-top: 24px;
+}
+
+.header-images div {
+   width: 200px;
+   height: 260px;
+}
+
+.header-images div img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+}
+
+.header-desc h3 {
+   direction: rtl;
+   width: 350px;
+   font-weight: 500;
+   font-size: 0.8rem;
+   height: 100px;
+   margin-top: 30px;
+}
+.header-link {
+   position: relative;
+}
+
+.header-link p {
+   position: absolute;
+   right: 29rem;
+   top: -6rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 200px;
+   height: 200px;
+   border: 1px solid black;
+   border-radius: 100%;
+}
+
+.header-link a {
+   border-bottom: 1px solid black;
+   padding-bottom: 2px;
+   text-align: center;
+   text-decoration: none;
+   color: black;
+   font-size: 0.9rem;
+   transition: all 0.5s linear;
+}
+
+.header-link a:hover {
+   color: #675a4c;
+}
+
+.header-title h2 {
+   margin-top: 45px;
+   font-size: 2.5rem;
+   font-weight: 500;
+}
