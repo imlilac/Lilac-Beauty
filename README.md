@@ -29,7 +29,7 @@ Users should be able to:
 
 ## Screenshot
 
-![Screenshot](https://github.com/imlilac/Daneshkar-js-hw-4-ToDoList/blob/main/assets/img/screen.png)
+![Screenshot](https://github.com/imlilac/Lilac-Beauty/blob/main/public/img/skin-srcreenshot.png)
 
 ## Built With
 
