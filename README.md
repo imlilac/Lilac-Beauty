@@ -1,12 +1,12 @@
-# React State Management Exercise
+# Skin Beauty - Single Page Application
 
-A React project demonstrating state management through a temperature component with dynamic styling and a counter component, both using class components and local state.
-
+This project is a single-page application for skin beauty products created with React. It showcases a list of best-selling products with images, names, and prices.
 
 ![logo](https://github.com/imlilac/Daneshkar-js-hw-4-ToDoList/blob/main/assets/img/banner.jpg)
 
 ## Table of Contents
 
+- [Features](#features)
 - [The Challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Built With](#built-with)
@@ -14,12 +14,38 @@ A React project demonstrating state management through a temperature component w
 - [Installation](#installation)
 - [Author](#author)
 
+## Features
+
+- Display of minimal landing page for skin beauty products.
+- Dynamic rendering of product information.
+- Clean and modern design using React.
+
 ## The Challenge
 
-Users should be able to:
+# React State Management Exercise
 
-- View the optimal layout for the site depending on their device's screen size.
-- Add new tasks and also be able to remove tasks or mark them as done.
+This project demonstrates basic state management in React through two simple components:
+
+1. **Temperature Component**: This component displays the current temperature and allows you to increase or decrease it using buttons. The temperature value updates dynamically, and the background color changes based on the temperature range.
+
+    - **State**: 
+      - `temp`: Stores the current temperature (initialized to 10℃).
+      - `tempClass`: Determines the CSS class based on the temperature to apply the appropriate background color (either "cold" or "hot").
+
+    - **Methods**:
+      - `addHandler()`: Increases the temperature by 1 degree up to a maximum of 30℃. Changes the temperature class if it reaches or exceeds 15℃.
+      - `minHandler()`: Decreases the temperature by 1 degree down to a minimum of 0℃. Changes the temperature class if it falls below 15℃.
+
+2. **Counter Component**: This component displays a counter value and provides buttons to increment or decrement the count.
+
+    - **State**:
+      - `count`: Tracks the current counter value (initialized to 0).
+
+    - **Methods**:
+      - `addHandler()`: Increases the counter value by 1.
+      - `minHandler()`: Decreases the counter value by 1.
+
+Both components use React class components and local state management to handle their respective functionalities. Tailwind CSS is used for styling, providing a responsive and modern UI.
 
 ## Screenshot
 
@@ -101,3 +127,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Author
 
 -  Github - [imlilac](https://github.com/imlilac)
+
