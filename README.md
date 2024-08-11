@@ -1,24 +1,18 @@
-# Skin Beauty - Single Page Application
+# React State Management Exercise
 
-This project is a single-page application for skin beauty products created with React. It showcases a list of best-selling products with images, names, and prices.
+A React project demonstrating state management through a temperature component with dynamic styling and a counter component, both using class components and local state.
+
 
 ![logo](https://github.com/imlilac/Daneshkar-js-hw-4-ToDoList/blob/main/assets/img/banner.jpg)
 
 ## Table of Contents
 
-- [Features](#features)
 - [The Challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Author](#author)
-
-## Features
-
-- Display of minimal landing page for skin beauty products.
-- Dynamic rendering of product information.
-- Clean and modern design using React.
 
 ## The Challenge
 
