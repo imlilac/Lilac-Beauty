@@ -58,17 +58,6 @@ Both components use React class components and local state management to handle 
 - JavaScript
 - React
 
-## Getting Started
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- [Node.js](https://nodejs.org/) (version 12 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
 ### Installation
 
  Clone the repository:
